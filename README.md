@@ -2,6 +2,16 @@
 
 > a vue.js project to support ts.
 
+## Usage
+
+```bash
+$ npm i vue-cli -g
+$ vue init Aladdin-ADD/vue-webpack#ts my-project
+$ cd my-project
+$ npm install
+$ npm run dev
+```
+
 ## Build Setup
 
 ``` bash
